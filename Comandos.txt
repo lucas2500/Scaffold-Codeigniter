@@ -1,0 +1,9 @@
+gem install zip-zip: instala a gem necessária do ruby
+
+gem install codeigniter3-scaffold: instala a gem do scaffold
+
+codeigniter3-scaffold -i: criar a estrutura do scaffold na pasta do projeto
+
+codeigniter3-scaffold -s Usuarios nome:string email:string idade:integer
+
+Cria a tabela e os atributos
